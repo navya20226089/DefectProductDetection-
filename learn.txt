@@ -1,0 +1,6 @@
+       Technologies learnt by Team 2 members
+Kushagra : 1.Revised Python 
+           2.Learned Modules such as Numpy , Pandas and Matplotlib
+           3.Learned Git and Github
+           4.Explore kaggle and dataset for our project
+           4.Learning ml using Google collab
