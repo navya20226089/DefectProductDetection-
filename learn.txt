@@ -9,3 +9,8 @@ Kavya : 1. Revise and Go through some Python libraries
         2. Explored a datatset on kaggle by MVTech company which provides various texture images regarding textile defects.
         3. Learned implementation of Modules such as Numpy , Pandas and Matplotlib on Google Collaboratory
         4. Read about classification and other supervised learning in ML
+
+Noopur: 1. Learned github and git
+        2. revised python and learned about some python libraries 
+        3. learned basics about ml
+        4. Explored kaggle
