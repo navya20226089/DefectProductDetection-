@@ -4,3 +4,8 @@ Kushagra : 1.Revised Python
            3.Learned Git and Github
            4.Explore kaggle and dataset for our project
            4.Learning ml using Google collab
+
+Kavya : 1. Revise and Go through some Python libraries
+        2. Explored a datatset on kaggle by MVTech company which provides various texture images regarding textile defects.
+        3. Learned implementation of Modules such as Numpy , Pandas and Matplotlib on Google Collaboratory
+        4. Read about classification and other supervised learning in ML
