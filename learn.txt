@@ -14,3 +14,6 @@ Noopur: 1. Learned github and git
         2. revised python and learned about some python libraries 
         3. learned basics about ml
         4. Explored kaggle
+Navya: 1. Revised python and all the pandas,numpy libraries
+       2. Studied a yt playlist on Opencv python tutorial and practiced on vs code
+       3.Explored some datasets related to the project on github
