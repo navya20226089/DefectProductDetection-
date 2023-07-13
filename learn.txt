@@ -9,3 +9,6 @@ Kavya : 1. Revise and Go through some Python libraries
         2. Explored a datatset on kaggle by MVTech company which provides various texture images regarding textile defects.
         3. Learned implementation of Modules such as Numpy , Pandas and Matplotlib on Google Collaboratory
         4. Read about classification and other supervised learning in ML
+Navya: 1.Revised Python and pandas,numpy,matplotlib libraries
+       2.Studied a playlist of Opencv Python tutorial on yt and practiced the code on vs code
+       3.Explored a dataset and other projects on github
